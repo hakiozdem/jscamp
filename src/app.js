@@ -17,7 +17,7 @@ const euroDun = 11.2
 console.log(euroDun)
 
 //array
-let konutKredileri = ["Konut kredisi","Emlak Konut Kredisi","Kamu Konut Kredisi"]
+let konutKredileri = ["Konut kredisi","Emlak Konut Kredisi","Kamu Konut Kredisi","Özel Konut Kredisi"]
 
 console.log("<ul>")
 for(let i = 0;i<3;i++){
